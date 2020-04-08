@@ -1,6 +1,6 @@
 version: "3"
 services:
-  hellolocal:
+  helloremote:
     build: .
     ports:
       - 5005
